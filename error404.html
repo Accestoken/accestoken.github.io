@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ru">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.ico" />
+	<title>Wedesico</title>
+
+    <link href="style/bootstrap.min.css" rel="stylesheet">
+	<link href="style/style.css" rel="stylesheet">
+    <script defer src="js/bootstrap.bundle.min.js"></script>
+
+    <link href="style/slider.css" rel="stylesheet">
+    <script src="js/slider.js" defer></script>
+
+    <link href="style/aos.css" rel="stylesheet">
+    <script src="js/aos.js"></script>
+
+    <link rel="stylesheet" href="/chatbot/chatbot.css">
+    <script src="/chatbot/fp2.js"></script>
+    <script src="/chatbot/chatbot.js"></script>
+
+    <meta name="description" content="Школа веб-дизайна в г. Пермь - обучение созданию web-design в фигма. Экспресс-курс научись разрабатывать макеты сайта в figma всего за неделю." />
+</head>
+<body>
+    <script>
+        AOS.init();
+    </script>
+
+    <div class="chatbot__btn">
+        <div class="chatbot__tooltip d-none">Есть вопрос?</div>
+    </div>
+
+    <!-- Шапка desktop -->
+    <header class="header-desktop">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                    <a href="index.html"><img class="logo" src="img/Logo.svg" alt="logo"></a>
+                </div>
+                
+            </div>
+        </div>
+    </header>
+    <!-- Шапка desktop -->
+    
+    <!-- Шапка mobile -->
+    <header class="header-mobile">
+        <img class="logo-mob" src="img/Logo.svg" alt="logo">
+            
+    </header>
+    <!-- Шапка mobile -->
+
+    <!-- Cookie -->
+    <div data-aos="zoom-in" data-aos-delay="500" data-aos-duration="3500" id="notification">
+        <h4>Внимание!</h4>
+        <p>Для улучшения работы сайта и его взаимодействия с пользователями мы используем файлы cookie. Продолжая работу с сайтом, Вы разрешаете использование cookie-файлов. Вы всегда можете отключить файлы cookie в настройках Вашего браузера.</p>
+        <button class="btn btn-primary button_noti" onclick="notinone()">Принять</button>
+    </div>
+    <!-- Cookie -->
+
+    <main>
+        <!-- Баннер -->
+        <div class="container banner">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                  <h1>Ошибка 404</h1>
+                  <p class="p-banner pt-2">
+                    К сожалению, запрашиваемая Вами страница не найдена.<br><br>
+                    Ссылка, по которой Вы пришли, неверна.<br>
+                    Вы неправильно указали путь или название страницы.
+                  </p>
+
+                  <div class="row justify-content-center">
+                    <div class="col-md-5 my-pt-5 pb-5">
+                        <button class="btn btn-warning btn-zapis-b" onclick="location.href='index.html';" type="button">На главную</button>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>            
+        </div>
+        <!-- Баннер -->
+
+    <script src="js/script.js"></script>
+</body>
+</html>

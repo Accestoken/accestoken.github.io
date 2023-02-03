@@ -1,0 +1,5 @@
+User-agent: *
+Allow: error.html
+Disallow: /admin
+Disallow: /img/admin
+Disallow: /support
