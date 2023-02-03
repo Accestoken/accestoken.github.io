@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://accestoken.github.io/</loc>
+	<lastmod>2023-02-03T11:27:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://accestoken.github.io/index.html</loc>
+	<lastmod>2023-02-03T11:27:22+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/Logo.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/img1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/clock.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/emoji-smile.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/person.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/briefcase.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/trophy.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/img2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://accestoken.github.io/img/img3.png</image:loc>
+	</image:image>
+</url>
+</urlset>
